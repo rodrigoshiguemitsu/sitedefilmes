@@ -1,0 +1,36 @@
+
+/*  #6B6EF5   ---- primeira cor
+#B262FA   ---- segunda cor
+#62B5FA   ---- terceira cor 
+preto e branco*/
+@media screen, (min-width="1349px"){
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.cabecalho{
+    background-color: #62B5FA;
+    width: 100vw;
+    color: black;
+    display: flex;
+}
+
+h1{
+    margin-left: 20px;
+  
+   
+}
+.subtitulos {
+    margin-left: 200px;
+    margin-top: 10px;
+    font-size: 20px;
+    color: black;
+}
+.subtitulos:hover {
+    font-size: 25px;
+    background-color: #62B5FA;
+    color: black;
+    
+}
+
+}
